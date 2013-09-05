@@ -1,0 +1,15 @@
+{
+    "name": "contrebis/cake-php-audit-log-plugin",
+    "authors": [
+        {
+            "name": "Robert Churchill",
+            "email": "robert@idacmedia.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "AuditLog"
+    }
+}
