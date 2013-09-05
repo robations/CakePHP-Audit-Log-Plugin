@@ -1,5 +1,6 @@
 {
     "name": "contrebis/cake-php-audit-log-plugin",
+    "type": "cakephp-plugin",
     "authors": [
         {
             "name": "Robert Churchill",
